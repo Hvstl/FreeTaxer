@@ -1,0 +1,2 @@
+rootProject.name = "FreeTaxer"
+include ':app'
